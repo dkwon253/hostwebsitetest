@@ -2,5 +2,6 @@ h1 {
     color: red;
 }
 img{
-    border: 1px solid teal;
+    border: 5px solid teal;
+    width: 100%;
 }
